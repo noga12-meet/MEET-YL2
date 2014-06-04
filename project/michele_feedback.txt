@@ -1,0 +1,3 @@
+When I first open the phone, the interface is not the prettiest thing I’ve seen ;). That’s alright though, since it accomplishes what you want it to accomplish. My biggest complaint about the interface is that it is unclear how I am supposed to enter the time that I want the alarm to ring at. I assume (because I have used other alarm applications before) that I assumed the right format for the time. The best (easiest) way to fix this is to make a small label below the text box that says “input your time like this: 15:43”. 
+
+I am glad that you got the alarm to work, the shaking for the snooze to work, etc, because how you have a real app that you made =). 
